@@ -29,9 +29,10 @@ After `cloning` the assignment you should make two commits:
 
 ---
 
-Your name: Burak Ozcaglar Date: <insert-the-date-here>
+Your name: Burak Ozcaglar  Date: 2025-07-28
 
 ---
+
 
 If you have any problems with this practice assignment, take screenshots and post them to <https://piazza.com/ucsd/summer2025/rady499>.
 
